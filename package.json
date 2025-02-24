@@ -9,13 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/styled": "^11.14.0",
+    "@gsap/react": "^2.1.2",
     "@nextui-org/react": "^2.4.6",
-    "@react-three/drei": "^9.108.3",
-    "@react-three/fiber": "^8.16.8",
-    "@react-three/rapier": "^1.4.0",
+    "@react-three/drei": "^9.121.3",
+    "@react-three/fiber": "^8.17.12",
+    "@react-three/rapier": "^1.5.0",
+    "@studio-freight/lenis": "^1.0.42",
     "framer-motion": "^11.3.31",
+    "gsap": "^3.12.7",
     "lava": "^0.13.6",
-    "next": "^14.2.14",
+    "meshline": "^3.3.1",
+    "next": "^14.2.23",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "three": "^0.166.1"
